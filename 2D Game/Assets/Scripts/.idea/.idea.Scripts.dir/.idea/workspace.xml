@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6382318-b396-4650-8dff-8b84320cc388" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../PlayerInput.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayerInput.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Ground.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Ground.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2DDemo/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/contentModel.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/encodings.xml" beforeDir="false" />
@@ -97,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614338708957</updated>
-      <workItem from="1614338718721" duration="4042000" />
+      <workItem from="1614338718721" duration="5235000" />
     </task>
     <servers />
   </component>
