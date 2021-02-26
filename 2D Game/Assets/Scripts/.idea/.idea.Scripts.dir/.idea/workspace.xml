@@ -5,7 +5,13 @@
       <change beforePath="$PROJECT_DIR$/../PlayerInput.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayerInput.inputactions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prefabs/Ground.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Ground.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/2Ddemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/2Ddemo.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/20/20fd43a1cc57e878788e893b012410e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/59/59173dbec15bd93a670917eacaf5754b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/87/87da2d77a79cfe1a46e1bd62365f3fdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/da/daccb46d93ed0246407f3bf8f5632fd5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2DDemo/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/contentModel.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/encodings.xml" beforeDir="false" />
@@ -63,7 +69,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.2d.animation@5.0.3/Editor/SkinningModule/SkinningModuleView.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.2d.common@4.0.3/Editor/TextureGenerator/TextureGeneratorHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.2d.path@4.0.1/Editor/EditorTool/PathEditorTool.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -101,14 +106,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614338708957</updated>
-      <workItem from="1614338718721" duration="5235000" />
+      <workItem from="1614338718721" duration="5830000" />
+      <workItem from="1614350085340" duration="1849000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -120,6 +126,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

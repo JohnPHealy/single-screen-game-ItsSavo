@@ -26,7 +26,7 @@
                 {
                     "name": "",
                     "id": "4b7e6e7c-60dd-4a3e-adcd-b14fdf577419",
-                    "path": "<Keyboard>/space",
+                    "path": "<Keyboard>/upArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard",
@@ -125,6 +125,11 @@
                     "isOR": false
                 }
             ]
+        },
+        {
+            "name": "New control scheme",
+            "bindingGroup": "New control scheme",
+            "devices": []
         }
     ]
 }
