@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6382318-b396-4650-8dff-8b84320cc388" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../PlayerInput.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayerInput.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/2Ddemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/2Ddemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/00/00de3ffde99fb3ad045184acb6ef7925" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/20/20fd43a1cc57e878788e893b012410e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/59/59173dbec15bd93a670917eacaf5754b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/87/87da2d77a79cfe1a46e1bd62365f3fdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/d5/d536a97fb66b6a9702ae0e0f9034d8eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/da/daccb46d93ed0246407f3bf8f5632fd5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/e3/e301cab7ef54ac124eeb9301fe645581" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/f4/f41fa82d4d169fd070ab6d63909356e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/.idea/.idea.2DDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/PlayerInput.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/PlayerInput.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Prefabs/Ground.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Prefabs/Ground.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Prefabs/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Prefabs/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Scripts/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Assets/Scripts/PlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2DDemo/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.2d.common@4.0.3/Editor/TextureGenerator/TextureGeneratorHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.2d.path@4.0.1/Editor/EditorTool/PathEditorTool.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/../../Library/PackageCache/com.unity.2d.animation@5.0.3/Editor/SkinningModule/SkinningModuleView.cs" />
+      <option value="$PROJECT_DIR$/../../Library/PackageCache/com.unity.2d.common@4.0.3/Editor/TextureGenerator/TextureGeneratorHelper.cs" />
+      <option value="$PROJECT_DIR$/PlayerMovement.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1p17NoBIaNiDgVqXwq3WIkoEYVf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6382318-b396-4650-8dff-8b84320cc388" name="Default Changelist" comment="" />
+      <created>1614338708957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614338708957</updated>
+      <workItem from="1614338718721" duration="5830000" />
+      <workItem from="1614350085340" duration="1849000" />
+      <workItem from="1614948651125" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
